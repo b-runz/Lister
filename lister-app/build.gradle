@@ -47,6 +47,18 @@ dependencies {
     implementation "com.android.support:support-core-utils:26.1.0"
 }
 
+//tasks.whenTaskAdded { task ->
+//    if (task.name.equals("lint")) {
+//        //this is for speed up build
+//        task.enabled = false
+//    }
+//    if(task.name.contains("Test"))
+//    {
+//        //this is what you need
+//        task.enabled = false
+//    }
+//}
+
 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 

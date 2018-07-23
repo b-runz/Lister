@@ -9,3 +9,5 @@ android:
     - android-26
   licenses:
     - '.+'
+script:
+    - ./gradlew build check
