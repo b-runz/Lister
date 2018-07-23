@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ListerLauncher3.iml" filepath="$PROJECT_DIR$/ListerLauncher3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lister.iml" filepath="$PROJECT_DIR$/Lister.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lister-app/lister-app.iml" filepath="$PROJECT_DIR$/.idea/modules/lister-app/lister-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lister-web/lister-web.iml" filepath="$PROJECT_DIR$/lister-web/lister-web.iml" />
     </modules>
