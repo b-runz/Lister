@@ -1,8 +1,7 @@
 <script setup lang="ts">
-const { data } = await useFetch('/api/hello')
+const { data } = await useFetch('/api/getVectorFromWord/test')
 </script>
 
 <template>
-  <div>{{ data.hello }}</div>
-  <h1>Hej med dig</h1>
+  <div>{{ data }}</div>
 </template>

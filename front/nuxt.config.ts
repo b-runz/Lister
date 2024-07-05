@@ -4,5 +4,6 @@ export default defineNuxtConfig({
   nitro: {
     preset: "azure"
   },
-  devtools: { enabled: true }
+  devtools: { enabled: true },
+  modules: ["nuxt-server-utils"]
 })

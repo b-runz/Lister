@@ -13,6 +13,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "mongoose": "^8.4.4",
+    "nuxt-server-utils": "^0.0.7",
     "vue": "latest"
   },
   "devDependencies": {
